@@ -46,4 +46,23 @@ d7c5c-449eb
 ```
 build ruby > 2.4 from source
 $ gem install jekyll bundler
+
+  The command seems to install into $HOME/.gem
+
 ```
+
+5. Steps to init a website from scratch:
+
+```
+  $ mkdir wireframe
+  $ cd wireframe
+  $ git init 
+  $ bundle init
+  add the line below into Gemfile
+	  gem "jekyll" 
+  $ bundle
+  $ bundle exec jekyll serve
+
+```
+
+   
