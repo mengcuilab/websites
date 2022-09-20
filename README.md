@@ -1,6 +1,6 @@
 # websites
 
-The Jekyll related apps are installed in `$HOME/Desktop/apps`
+The Jekyll related apps are installed in `$HOME/Desktop/apps` on Brown
 
 
 1. To start the jekyll server 
@@ -36,4 +36,8 @@ d7c5c-449eb
 3. Free high quality photos from unsplash.com
 
 
+4. Steps to install jekyll:
+
+`build ruby > 2.4 from source`
+`$ gem install jekyll bundler`
 
