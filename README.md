@@ -6,16 +6,16 @@ The Jekyll related apps are installed in `$HOME/Desktop/apps` on Brown
 1. To start the jekyll server 
 
 ```
-module use $HOME/mymodules
-module load ruby-h/2.5.7
+    module use $HOME/mymodules
+    module load ruby-h/2.5.7
 ```
 
 2. The repo is under github account
 
 ```
-user.email  tsaiwei.twwu@gmail.com
-username    mengcuilab
-password    3gesvzPQ@+
+    user.email  tsaiwei.twwu@gmail.com
+    username    mengcuilab
+    password    3gesvzPQ@+
 ```
 
 ```
