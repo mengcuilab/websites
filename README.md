@@ -15,9 +15,10 @@ or
     source jekyll.module
 ```
 
-2. The repo is under github account
+2. The repo is under github account 
 
 ```
+    github.com
     user.email  tsaiwei.twwu@gmail.com
     username    mengcuilab
     password    3gesvzPQ@+
@@ -86,6 +87,24 @@ or
 
 ```
 
+7. Jekyll tutorial website
+   https://jekyllrb.com/
+   https://blog.webjeda.com/
+
+   Jekyll wiki theme
+   http://jekyllthemes.org/themes/git-wiki-for-documentation/
+
+
+   Jekyll theme with small social media icons  
+   http://jekyllthemes.org/themes/dactl/
+   http://jekyllthemes.org/themes/millennial/
+   http://jekyllthemes.org/themes/lagrange/
+
+   Jekyll theme with top right menu
+   http://jekyllthemes.org/themes/jekyll-theme-cayman-blog/
+   http://jekyllthemes.org/themes/millennial/
+   http://jekyllthemes.org/themes/lagrange/
+   https://janczizikow.github.io/sleek/
 
 
    
