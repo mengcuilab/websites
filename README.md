@@ -70,4 +70,22 @@ or
     
 ```
 
+6. Steps to init a website from templates:
+
+```
+    $ source jekyll.module
+    $ git init
+    add the line below into Gemfile
+    	gem "jekyll" 
+    $ bundle
+    $ bundle exec jekyll serve
+    open browser with localhost:4000
+    
+    When somethings are changed in _config.yml,
+    it needs to restart jekyll serve
+
+```
+
+
+
    
