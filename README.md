@@ -9,6 +9,11 @@
     module use $HOME/mymodules
     module load ruby-h/2.5.7
 ```
+or 
+
+```
+    source jekyll.modules
+```
 
 2. The repo is under github account
 

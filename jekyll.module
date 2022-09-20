@@ -1,0 +1,3 @@
+
+module use $HOME/mymodules
+module load ruby-h/2.5.7
