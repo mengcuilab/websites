@@ -11,9 +11,10 @@ module load ruby-h/2.5.7
 ```
 
 2. The repo is under github account
-user.email tsaiwei.twwu@gmail.com
-username mengcuilab 
-pwd 3gesvzPQ@+
+
+user.email `tsaiwei.twwu@gmail.com`
+username `mengcuilab`
+pwd `3gesvzPQ@+`
 
 Recovery code:
 73645-06e5f 
