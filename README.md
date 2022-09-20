@@ -12,7 +12,7 @@
 or 
 
 ```
-    source jekyll.modules
+    source jekyll.module
 ```
 
 2. The repo is under github account
